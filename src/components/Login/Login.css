@@ -1,0 +1,17 @@
+.login {
+    display: grid;
+    place-items: center;
+    height: 99vh;
+}
+.login>button{
+    background-color: blue;
+    color: white;
+    width: 300px;
+}
+.login>button:hover{
+    background-color: white;
+    color: blue;
+}
+.login__title>img{
+height: 150px;
+}
